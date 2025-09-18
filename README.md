@@ -22,14 +22,15 @@ simple-filesystem-c/
 │   ├── softwaredisk.c
 │   ├── filesystem.h
 │   ├── softwaredisk.h
-│   └── Makefile
 ├── tests/
 │   ├── testfs0.c
 │   ├── testfs4a.c
 │   └── exercisesoftwaredisk.c
 ├── README.md
-├── filesystem_design.md
+├── filesystem_design.pdf
+├── assignment-instructions.pdf
 └── .gitignore
+
 ```
 
 ---
