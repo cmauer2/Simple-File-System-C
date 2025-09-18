@@ -9,7 +9,6 @@ This project is a simple block-based, inode-style filesystem written in C for my
 
 - **Carter Mauer**  
 - **Cole Heausler**  
-- **Instructor:** Prof. Ali-Gombe
 
 ---
 
